@@ -1,0 +1,3 @@
+START_OF_SEQUENCE = 'sos'
+END_OF_SEQUENCE = 'eos'
+PADDING = 'pad'
